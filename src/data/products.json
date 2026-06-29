@@ -1,0 +1,63 @@
+{
+  "categories": [
+    {
+      "id": "remeras",
+      "name": "Remeras"
+    },
+    {
+      "id": "buzos",
+      "name": "Buzos"
+    },
+    {
+      "id": "pantalones",
+      "name": "Pantalones"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Remera Oversize Vibe",
+      "description": "Remera de corte oversize de algodón peinado premium. Estilo urbano y minimalista.",
+      "price": 14999,
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=800&auto=format&fit=crop&q=80",
+      "categoryId": "remeras"
+    },
+    {
+      "id": "2",
+      "name": "Buzo Hoodie Retro",
+      "description": "Buzo con capucha y bolsillo canguro. Frisa abrigada, ideal para el invierno.",
+      "price": 28999,
+      "stock": 8,
+      "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800&auto=format&fit=crop&q=80",
+      "categoryId": "buzos"
+    },
+    {
+      "id": "3",
+      "name": "Pantalón Cargo Urban",
+      "description": "Pantalón cargo de gabardina reforzada con múltiples bolsillos. Ajuste cómodo.",
+      "price": 32499,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800&auto=format&fit=crop&q=80",
+      "categoryId": "pantalones"
+    },
+    {
+      "id": "4",
+      "name": "Remera Classic Minimal",
+      "description": "Remera básica de cuello redondo. Ajuste entallado, disponible en varios colores.",
+      "price": 11999,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800&auto=format&fit=crop&q=80",
+      "categoryId": "remeras"
+    },
+    {
+      "id": "5",
+      "name": "Buzo Crewneck Comfort",
+      "description": "Buzo de cuello redondo de algodón rústico sin capucha. Diseño clásico y casual.",
+      "price": 24999,
+      "stock": 10,
+      "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800&auto=format&fit=crop&q=80",
+      "categoryId": "buzos"
+    }
+  ]
+}
